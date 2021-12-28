@@ -1,6 +1,6 @@
 {
   "name": "akilar-friends",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "友链页面的图片存储",
   "main": "index.js",
   "scripts": {
